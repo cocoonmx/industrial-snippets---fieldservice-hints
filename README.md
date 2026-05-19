@@ -19,9 +19,15 @@ industrial-snippets and fieldservice-hints
 
 ## Installation
 
-no installation required
+See installation instructions in hint folders 
 
 ```bash
+
 Changes:
+----------------------------------------------
+19.0.2026
+--add ACS880 hint section
+----------------------------------------------
 11.02.2026
 --Opening and first Files
+----------------------------------------------
